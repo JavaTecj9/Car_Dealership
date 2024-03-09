@@ -24,5 +24,7 @@ public class Main {
 
         Employee.sellCar(Car4.retailPrice, 5, customer3.interestRate);
         employee1.salesCommission(Car4.retailPrice, Car4.dealerCost, employee1.salesCommission);
+
+        System.out.println("Recommit");
     }
 }
